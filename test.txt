@@ -1,0 +1,8 @@
+7.	Explain the role of the init process in Linux.
+The init process is the ancestor of all processes in a Unix-based operating system, including Linux. It is the first process started by the kernel during the system boot process and has a process ID (PID) of 1. The primary responsibility of the init process is to initialize the system and serve as the parent or grandparent of all other processes.
+
+8.	How do you change the run level of a Linux system?
+
+9.	What is the function of the df command?
+The df command in Linux is used to display information about the disk space usage on a file system. It reports the amount of disk space used, available, and total space on a file system, as well as the percentage of space used.
+

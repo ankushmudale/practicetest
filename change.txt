@@ -1,0 +1,4 @@
+git config --global init.defaultBranch <name>
+
+
+This is Test text file
